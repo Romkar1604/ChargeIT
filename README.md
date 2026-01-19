@@ -12,4 +12,5 @@ Creating clean, structured screens for forms, maps, and filters
 
 The goal of ChargeIT is to showcase how a real EV charging app could be structured visually and navigationally using UIKit.
 
-![Uploading Simulator Screen Recording - iPhone 17 Pro - 2026-01-19 at 16.24.36.gif…]()
+![Simulator Screen Recording - iPhone 17 Pro - 2026-01-19 at 16 24 36](https://github.com/user-attachments/assets/25d20945-d420-47c2-92e7-c42abd9b21bd)
+
