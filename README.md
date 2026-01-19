@@ -11,3 +11,5 @@ Designing multi-step user flows in Storyboard
 Creating clean, structured screens for forms, maps, and filters
 
 The goal of ChargeIT is to showcase how a real EV charging app could be structured visually and navigationally using UIKit.
+
+![Uploading Simulator Screen Recording - iPhone 17 Pro - 2026-01-19 at 16.24.36.gif…]()
